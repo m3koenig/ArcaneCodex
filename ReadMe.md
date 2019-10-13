@@ -1,6 +1,6 @@
-![alt text](https://raw.githubusercontent.com/m3koenig/ArcaneCodexFankompendium/master/Image/Logo.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/m3koenig/ArcaneCodex/master/Image/Logo.png "Logo Title Text 1")
 
-Willkommen bei [Arcane Codex Fanarbeiten/Fankompendium](https://m3koenig.github.io/ArcaneCodexFankompendium/)
+Willkommen bei [Arcane Codex Fanarbeiten/Fankompendium](https://m3koenig.github.io/ArcaneCodex/)
 
 - [Arcane Codex - Fanarbeiten](#arcane-codex---fanarbeiten)
 - [Vorwort zur GitHub Version](#vorwort-zur-github-version)
