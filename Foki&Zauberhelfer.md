@@ -1,5 +1,9 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
+
 # Foki & Zauberhelfer
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Foki & Zauberhelfer](#foki--zauberhelfer)
   - [Erz der Erde (3)](#erz-der-erde-3)
   - [Ewiges Eis (4)](#ewiges-eis-4)

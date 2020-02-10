@@ -1,5 +1,8 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
 # Lektionen der offiziellen Schulen
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Lektionen der offiziellen Schulen](#lektionen-der-offiziellen-schulen)
   - [Barde](#barde)
     - [Die Trommeln von Trulk](#die-trommeln-von-trulk)

@@ -1,6 +1,8 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
 
 # Schwarzmarkt - Unterm Ladentisch 
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Schwarzmarkt - Unterm Ladentisch](#schwarzmarkt---unterm-ladentisch)
   - [Waffen](#waffen)
     - [Japanische Waffen](#japanische-waffen)

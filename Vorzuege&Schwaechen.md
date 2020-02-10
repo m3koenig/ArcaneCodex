@@ -1,5 +1,8 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
 # Vorzüge und Schwächen
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Vorzüge und Schwächen](#vorz%c3%bcge-und-schw%c3%a4chen)
 - [Vorzüge](#vorz%c3%bcge)
   - [Anerkannt (1 CP)](#anerkannt-1-cp)

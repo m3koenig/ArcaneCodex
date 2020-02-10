@@ -1,5 +1,8 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
 # Göttliche Magie - Wege der Herren
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Göttliche Magie - Wege der Herren](#g%c3%b6ttliche-magie---wege-der-herren)
   - [Allgemein](#allgemein)
     - [Segen (Ritual)](#segen-ritual)

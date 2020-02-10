@@ -1,5 +1,8 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
 # Kreaturen
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Kreaturen](#kreaturen)
   - [Tiere](#tiere)
   - [Aasskarabäen (Schwarm)](#aasskarab%c3%a4en-schwarm)

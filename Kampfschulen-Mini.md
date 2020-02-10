@@ -1,3 +1,5 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
 # Mini-Schulen
 
 Kosten 6 CP bei der Charaktererschaffung und 6 + neue Stufe EP während des Spielverlaufs.
@@ -6,6 +8,7 @@ Stufen keinen Zuwachs der arkanen Macht mit
 sich, ebenso wenig wie einen Zuwachs von
 Ruhmpunkten.
   
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Mini-Schulen](#mini-schulen)
   - [Duellant](#duellant)
     - [1: Das Duell](#1-das-duell)

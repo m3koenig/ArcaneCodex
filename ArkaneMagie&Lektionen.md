@@ -1,5 +1,8 @@
+# <a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>
+
 # Arkane Magie
 
+- [<a href="https://m3koenig.github.io/ArcaneCodex">**<-- Zurück zur Hauptseite**</a>](#zur%c3%bcck-zur-hauptseite)
 - [Arkane Magie](#arkane-magie)
 - [Pandoras Büchse - Nekormantiezauber](#pandoras-b%c3%bcchse---nekormantiezauber)
     - [Fleischriss](#fleischriss)
