@@ -1,6 +1,4 @@
-<a href="/">  ab </a>
-
-<img src=https://raw.githubusercontent.com/m3koenig/ArcaneCodex/master/Image/GUI/previous-button.png  width="30" height="30">
+<a href="https://m3koenig.github.io/ArcaneCodex"><--</a>
 
 # Gilden, Bünde und Orden
 
