@@ -1,20 +1,13 @@
 theme: jekyll-theme-slate
-include:
-    - AlchimistischeGebraeue.md
-    - ArkaneMagie&Lektionen.md
-    - Artefakte&MagischeGegenstaende.md
-    - Fertigkeiten.md
-    - Foki&Zauberhelfer.md
-    - Geschenke&DornenDerNatur.md
-    - GildenBuendeUndOrden.md
-    - GoettlicheMagie.md
-    - HandwerksHandbuch.md
-    - Kampfschulen-Mini.md
-    - Kampfschulen.md
-    - Kreaturen.md
-    - Lektionen&Berufswege.md
-    - Rassen.md
-    - ReadMe.md
-    - Regionen.md
-    - Schwarzmarkt.md
-    - Vorzuege&Schwaechen.md
+relative_links:
+    enabled: true
+    collections: true
+  include:
+    - CONTRIBUTING.md
+    - README.md
+    - LICENSE.md
+    - COPYING.md
+    - CODE_OF_CONDUCT.md
+    - CONTRIBUTING.md
+    - ISSUE_TEMPLATE.md
+    - PULL_REQUEST_TEMPLATE.md
